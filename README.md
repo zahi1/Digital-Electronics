@@ -11,8 +11,6 @@ VHDL Coding Resources: Look into VHDL coding with our comprehensive resources an
 
 Community Support and Collaboration: You can connect and share your insights, seek guidance, and collaborate on projects.
 
-Why Choose Our Repository:
-
 Comprehensive Coverage: this repo offers comprehensive coverage of digital electronics topics, catering to learners of all levels, from beginners to advanced practitioners.
 
 Accessible Resources: these materials are designed to be accessible and user-friendly
